@@ -11,6 +11,7 @@
 - [Skills 汇总](categories/skills.md)
 - [MCP Server 汇总](categories/mcp-servers.md)
 - [插件汇总](categories/plugins.md)
+- [资源汇总](categories/resources.md)
 
 ## ⚠️ 安全说明
 
@@ -18,4 +19,4 @@
 
 ## 📅 最近更新
 
-最后更新：2026-06-25
+最后更新：2026-06-25 | 收录总数：16 项
