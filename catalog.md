@@ -1,6 +1,6 @@
 # Claude Skills Hub — 完整目录
 
-> 最后更新：2026-06-26 | 收录总数：24 项
+> 最后更新：2026-06-26 | 收录总数：32 项
 
 ## Claude Code Skills
 
@@ -45,3 +45,28 @@
 | 名称 | 仓库 | Stars | 安全 | 简介 | 首次收录 |
 |------|------|-------|------|------|----------|
 | Awesome Claude Code | [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | 47,240 | ✅ | 精选 Claude Code skills、hooks、slash-commands 和 agent 编排器 | 2026-06-25 |
+
+
+---
+
+## 2026-06-26 新增
+
+### MCP Servers（新增）
+| 名称 | 仓库 | Stars | 安全 | 简介 | 首次收录 |
+|------|------|-------|------|------|----------|
+| LinkedIn MCP Server | [stickerdaniel/linkedin-mcp-server](https://github.com/stickerdaniel/linkedin-mcp-server) | 2516 | ⚠️ | 通过浏览器自动化给 Claude 提供 LinkedIn 数据访问能力 | 2026-06-26 |
+| MCP-NixOS | [utensils/mcp-nixos](https://github.com/utensils/mcp-nixos) | 722 | ✅ | 为 Claude 提供 NixOS 包与选项知识的 MCP 服务器 | 2026-06-26 |
+| ComfyUI MCP | [artokun/comfyui-mcp](https://github.com/artokun/comfyui-mcp) | 185 | ✅ | ComfyUI 图像/视频生成的 Claude Code 插件与 MCP Server | 2026-06-26 |
+| MCPJam Inspector | [MCPJam/inspector](https://github.com/MCPJam/inspector) | 2034 | ✅ | 专业的 MCP Server 测试、调试与评估平台 | 2026-06-26 |
+
+### Claude Code Skills（新增）
+| 名称 | 仓库 | Stars | 安全 | 简介 | 首次收录 |
+|------|------|-------|------|------|----------|
+| Claude Forge | [sangrokjung/claude-forge](https://github.com/sangrokjung/claude-forge) | 757 | ✅ | 11 AI agents + 36 命令 + 15 skill 的 Claude Code 增强套件 | 2026-06-26 |
+| Storybloq | [Storybloq/storybloq](https://github.com/Storybloq/storybloq) | 629 | ✅ | 跨 session 的项目上下文持久化工具，含 CLI + MCP + skill | 2026-06-26 |
+| Claude Code Skills | [levnikolaevich/claude-code-skills](https://github.com/levnikolaevich/claude-code-skills) | 501 | ✅ | 137 个 skill 插件套件，覆盖完整开发生命周期 | 2026-06-26 |
+
+### Plugins & Tools（新增）
+| 名称 | 仓库 | Stars | 安全 | 简介 | 首次收录 |
+|------|------|-------|------|------|----------|
+| PostHog AI Plugin | [PostHog/ai-plugin](https://github.com/PostHog/ai-plugin) | 57 | ⚠️ | PostHog 官方 Claude Code 插件，产品分析数据查询与 LLM 追踪 | 2026-06-26 |
