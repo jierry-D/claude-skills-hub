@@ -16,3 +16,7 @@
 | Huashu Design | [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design) | 19,683 | ✅ | 自然语言描述 | Claude Code HTML 原生设计，3~30 分钟出大厂级交付物 | 2026-06-25 |
 | Humanizer-zh | [op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh) | 11,493 | ✅ | `/humanizer-zh` | Humanizer 中文版，去除中文 AI 写作痕迹 | 2026-06-25 |
 | ARIS | [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) | 12,594 | ✅ | 任务配置 | 让 agent 在你睡觉时自主执行研究任务 | 2026-06-25 |
+
+| Claude Forge | [sangrokjung/claude-forge](https://github.com/sangrokjung/claude-forge) | 757 | ✅ | 全能开发增强套件 | 2026-06-26 |
+| Storybloq | [Storybloq/storybloq](https://github.com/Storybloq/storybloq) | 629 | ✅ | 跨 session 上下文持久化 | 2026-06-26 |
+| Claude Code Skills (levnikolaevich) | [levnikolaevich/claude-code-skills](https://github.com/levnikolaevich/claude-code-skills) | 501 | ✅ | 137 skill 插件套件 | 2026-06-26 |
