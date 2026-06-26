@@ -9,3 +9,8 @@
 | n8n-MCP | [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | 21,947 | ✅ | npm/Docker | 让 AI 理解并构建 n8n 自动化工作流 | 2026-06-25 |
 | DBHub | [bytebase/dbhub](https://github.com/bytebase/dbhub) | 3,029 | ⚠️ | MCP 配置 | 零依赖、高 token 效率的多数据库 MCP server | 2026-06-25 |
 | Markdownify MCP | [zcaceres/markdownify-mcp](https://github.com/zcaceres/markdownify-mcp) | 2,759 | ✅ | bun install | 将 PDF/图片/音频/网页转换为 Markdown 的 MCP server | 2026-06-25 |
+
+| MCPJam Inspector | [MCPJam/inspector](https://github.com/MCPJam/inspector) | 2034 | ✅ | MCP Server 测试调试平台 | 2026-06-26 |
+| LinkedIn MCP Server | [stickerdaniel/linkedin-mcp-server](https://github.com/stickerdaniel/linkedin-mcp-server) | 2516 | ⚠️ | LinkedIn 浏览器自动化 MCP | 2026-06-26 |
+| MCP-NixOS | [utensils/mcp-nixos](https://github.com/utensils/mcp-nixos) | 722 | ✅ | NixOS 知识 MCP 服务器 | 2026-06-26 |
+| ComfyUI MCP | [artokun/comfyui-mcp](https://github.com/artokun/comfyui-mcp) | 185 | ✅ | ComfyUI 图像生成 MCP | 2026-06-26 |
