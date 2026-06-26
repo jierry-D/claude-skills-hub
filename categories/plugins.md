@@ -10,3 +10,5 @@
 | Jeffallan Claude Skills | [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) | 10,193 | ✅ | /plugin marketplace add | 面向全栈开发者的 66 个专业 skill + 9 个工作流 | 2026-06-25 |
 | Claude Code Skills (levnikolaevich) | [levnikolaevich/claude-code-skills](https://github.com/levnikolaevich/claude-code-skills) | 501 | ✅ | /plugin marketplace add | 137 skills + 7 plugins + 3 自研 MCP server 的全生命周期套件 | 2026-06-26 |
 | Vibecosystem | [vibeeval/vibecosystem](https://github.com/vibeeval/vibecosystem) | 507 | ✅ | npx vibecosystem install | 138 agents + 296 skills + 74 hooks 的 AI 软件团队套件 | 2026-06-25 |
+
+| PostHog AI Plugin | [PostHog/ai-plugin](https://github.com/PostHog/ai-plugin) | 57 | ⚠️ | PostHog 官方分析插件 | 2026-06-26 |
