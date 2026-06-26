@@ -1,11 +1,16 @@
 # Claude Code Skills 汇总
 
-> 最后更新：2026-06-25 | 收录：7 项
+> 最后更新：2026-06-26 | 收录：12 项
 
 | 名称 | 仓库 | Stars | 安全 | 触发方式 | 简介 | 首次收录 |
 |------|------|-------|------|----------|------|----------|
 | Andrej Karpathy Skills | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | 181,645 | ✅ | 合并 CLAUDE.md | 源自 Karpathy 洞察的 CLAUDE.md，四原则减少 LLM 编码通病 | 2026-06-25 |
+| UI UX Pro Max | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 96,475 | ✅ | `npx ui-ux-pro-max` | 161 设计规则 + 67 UI 风格 + 161 色板的专业 UI/UX 设计 skill | 2026-06-26 |
 | Caveman | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 76,622 | ✅ | `/caveman` | 削减 ~75% 输出 token 的穴居人表达 skill | 2026-06-25 |
+| Agent Skills | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 66,764 | ✅ | `/define` `/plan` `/build` 等 | Addy Osmani 出品的 24 个生产级工程 skills | 2026-06-26 |
+| Career Ops | [santifer/career-ops](https://github.com/santifer/career-ops) | 55,728 | ✅ | 命令行 | AI 求职自动化：14 skill 模式 + Go 仪表盘，评估 740+ offer | 2026-06-26 |
+| Last 30 Days | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 46,718 | ✅ | `/last30days <话题>` | 聚合 Reddit/X/YouTube/HN/Polymarket 的最近 30 天实时热点 | 2026-06-26 |
+| Academic Research Skills | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 34,475 | ✅ | `/deep-research` 等 | 10 阶段学术写作流水线，含反幻觉门控和文献引用核查 | 2026-06-26 |
 | Humanizer | [blader/humanizer](https://github.com/blader/humanizer) | 25,994 | ✅ | `/humanizer` | 去除文本 AI 生成痕迹，使写作更自然 | 2026-06-25 |
 | Planning with Files | [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) | 23,897 | ✅ | 自动触发 | 持久化文件规划，agent 崩溃后可恢复 | 2026-06-25 |
 | Huashu Design | [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design) | 19,683 | ✅ | 自然语言描述 | Claude Code HTML 原生设计，3~30 分钟出大厂级交付物 | 2026-06-25 |
