@@ -14,3 +14,4 @@
 | LinkedIn MCP Server | [stickerdaniel/linkedin-mcp-server](https://github.com/stickerdaniel/linkedin-mcp-server) | 2516 | ⚠️ | LinkedIn 浏览器自动化 MCP | 2026-06-26 |
 | MCP-NixOS | [utensils/mcp-nixos](https://github.com/utensils/mcp-nixos) | 722 | ✅ | NixOS 知识 MCP 服务器 | 2026-06-26 |
 | ComfyUI MCP | [artokun/comfyui-mcp](https://github.com/artokun/comfyui-mcp) | 185 | ✅ | ComfyUI 图像生成 MCP | 2026-06-26 |
+| codedb | [justrach/codedb](https://github.com/justrach/codedb) | 1,337 | ✅ | 基于 Zig 的零依赖代码智能 MCP 服务器 | 2026-06-27 |
