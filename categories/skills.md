@@ -20,3 +20,10 @@
 | Claude Forge | [sangrokjung/claude-forge](https://github.com/sangrokjung/claude-forge) | 757 | ✅ | 全能开发增强套件 | 2026-06-26 |
 | Storybloq | [Storybloq/storybloq](https://github.com/Storybloq/storybloq) | 629 | ✅ | 跨 session 上下文持久化 | 2026-06-26 |
 | Claude Code Skills (levnikolaevich) | [levnikolaevich/claude-code-skills](https://github.com/levnikolaevich/claude-code-skills) | 501 | ✅ | 137 skill 插件套件 | 2026-06-26 |
+| Graphify | [safishamsi/graphify](https://github.com/safishamsi/graphify) | 72,588 | ✅ | 将代码库转为可查询知识图谱 | 2026-06-27 |
+| Antigravity Awesome Skills | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | 41,782 | ✅ | 1689+ agentic skills 可安装库 | 2026-06-27 |
+| Scientific Agent Skills | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 29,410 | ✅ | 147 个科学研究技能 | 2026-06-27 |
+| Awesome Agent Skills | [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) | 26,555 | ✅ | 官方精选 1000+ agent skills | 2026-06-27 |
+| Anthropic Cybersecurity Skills | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 21,801 | ✅ | 817 个网络安全技能 | 2026-06-27 |
+| Claude Code Skills (alirezarezvani) | [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) | 19,147 | ✅ | 337 个生产级技能 | 2026-06-27 |
+| Claude Code Ultimate Guide | [FlorianBruniaux/claude-code-ultimate-guide](https://github.com/FlorianBruniaux/claude-code-ultimate-guide) | 5,221 | ✅ | 最全面的 Claude Code 指南 | 2026-06-27 |
