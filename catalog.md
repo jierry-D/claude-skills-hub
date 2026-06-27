@@ -1,6 +1,6 @@
 # Claude Skills Hub — 完整目录
 
-> 最后更新：2026-06-26 | 收录总数：32 项
+> 最后更新：2026-06-27 | 收录总数：39 项
 
 ## Claude Code Skills
 
@@ -19,6 +19,14 @@
 | Humanizer-zh | [op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh) | 11,493 | ✅ | Humanizer 中文版，去除中文 AI 写作痕迹的 Claude Code skill | 2026-06-25 |
 | ARIS | [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) | 12,594 | ✅ | 让 agent 在你睡觉时自主执行研究任务 | 2026-06-25 |
 
+| Graphify | [safishamsi/graphify](https://github.com/safishamsi/graphify) | 72,588 | ✅ | 将代码库转为可查询知识图谱的 AI 编程助手技能 | 2026-06-27 |
+| Antigravity Awesome Skills | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | 41,782 | ✅ | 1689+ 可安装 agentic skills 库，支持 Claude Code 等多平台 | 2026-06-27 |
+| Scientific Agent Skills | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 29,410 | ✅ | 147 个科学研究技能 + 100+ 数据库，面向 AI 科学家 | 2026-06-27 |
+| Awesome Agent Skills | [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) | 26,555 | ✅ | 精选 1000+ 官方团队和社区 agent skills 合集 | 2026-06-27 |
+| Anthropic Cybersecurity Skills | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 21,801 | ✅ | 817 个网络安全技能，映射 6 大安全框架 | 2026-06-27 |
+| Claude Code Skills (alirezarezvani) | [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) | 19,147 | ✅ | 337 个生产级技能，覆盖工程/营销/合规/C级顾问等 | 2026-06-27 |
+| Claude Code Ultimate Guide | [FlorianBruniaux/claude-code-ultimate-guide](https://github.com/FlorianBruniaux/claude-code-ultimate-guide) | 5,221 | ✅ | 最全面的 Claude Code 指南，含 181 模板和威胁数据库 | 2026-06-27 |
+
 ## MCP Servers
 
 | 名称 | 仓库 | Stars | 安全 | 简介 | 首次收录 |
@@ -28,6 +36,8 @@
 | n8n-MCP | [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | 21,947 | ✅ | 让 AI 理解并构建 n8n 自动化工作流 | 2026-06-25 |
 | DBHub | [bytebase/dbhub](https://github.com/bytebase/dbhub) | 3,029 | ⚠️ | 零依赖、高 token 效率的多数据库 MCP server | 2026-06-25 |
 | Markdownify MCP | [zcaceres/markdownify-mcp](https://github.com/zcaceres/markdownify-mcp) | 2,759 | ✅ | 将 PDF/图片/音频/网页转换为 Markdown 的 MCP server | 2026-06-25 |
+
+| codedb | [justrach/codedb](https://github.com/justrach/codedb) | 1,337 | ✅ | 基于 Zig 的零依赖代码智能 MCP 服务器 | 2026-06-27 |
 
 ## Plugins & Tools
 
@@ -51,7 +61,15 @@
 
 ## 2026-06-26 新增
 
-### MCP Servers（新增）
+#| Graphify | [safishamsi/graphify](https://github.com/safishamsi/graphify) | 72,588 | ✅ | 将代码库转为可查询知识图谱的 AI 编程助手技能 | 2026-06-27 |
+| Antigravity Awesome Skills | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | 41,782 | ✅ | 1689+ 可安装 agentic skills 库，支持 Claude Code 等多平台 | 2026-06-27 |
+| Scientific Agent Skills | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 29,410 | ✅ | 147 个科学研究技能 + 100+ 数据库，面向 AI 科学家 | 2026-06-27 |
+| Awesome Agent Skills | [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) | 26,555 | ✅ | 精选 1000+ 官方团队和社区 agent skills 合集 | 2026-06-27 |
+| Anthropic Cybersecurity Skills | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 21,801 | ✅ | 817 个网络安全技能，映射 6 大安全框架 | 2026-06-27 |
+| Claude Code Skills (alirezarezvani) | [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) | 19,147 | ✅ | 337 个生产级技能，覆盖工程/营销/合规/C级顾问等 | 2026-06-27 |
+| Claude Code Ultimate Guide | [FlorianBruniaux/claude-code-ultimate-guide](https://github.com/FlorianBruniaux/claude-code-ultimate-guide) | 5,221 | ✅ | 最全面的 Claude Code 指南，含 181 模板和威胁数据库 | 2026-06-27 |
+
+## MCP Servers（新增）
 | 名称 | 仓库 | Stars | 安全 | 简介 | 首次收录 |
 |------|------|-------|------|------|----------|
 | LinkedIn MCP Server | [stickerdaniel/linkedin-mcp-server](https://github.com/stickerdaniel/linkedin-mcp-server) | 2516 | ⚠️ | 通过浏览器自动化给 Claude 提供 LinkedIn 数据访问能力 | 2026-06-26 |
@@ -66,7 +84,9 @@
 | Storybloq | [Storybloq/storybloq](https://github.com/Storybloq/storybloq) | 629 | ✅ | 跨 session 的项目上下文持久化工具，含 CLI + MCP + skill | 2026-06-26 |
 | Claude Code Skills | [levnikolaevich/claude-code-skills](https://github.com/levnikolaevich/claude-code-skills) | 501 | ✅ | 137 个 skill 插件套件，覆盖完整开发生命周期 | 2026-06-26 |
 
-### Plugins & Tools（新增）
+#| codedb | [justrach/codedb](https://github.com/justrach/codedb) | 1,337 | ✅ | 基于 Zig 的零依赖代码智能 MCP 服务器 | 2026-06-27 |
+
+## Plugins & Tools（新增）
 | 名称 | 仓库 | Stars | 安全 | 简介 | 首次收录 |
 |------|------|-------|------|------|----------|
 | PostHog AI Plugin | [PostHog/ai-plugin](https://github.com/PostHog/ai-plugin) | 57 | ⚠️ | PostHog 官方 Claude Code 插件，产品分析数据查询与 LLM 追踪 | 2026-06-26 |
