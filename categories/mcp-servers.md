@@ -1,6 +1,6 @@
 # MCP Servers 汇总
 
-> 最后更新：2026-06-25 | 收录：5 项
+> 最后更新：2026-06-27 | 收录：12 项
 
 | 名称 | 仓库 | Stars | 安全 | 安装方式 | 简介 | 首次收录 |
 |------|------|-------|------|----------|------|----------|
@@ -14,4 +14,5 @@
 | LinkedIn MCP Server | [stickerdaniel/linkedin-mcp-server](https://github.com/stickerdaniel/linkedin-mcp-server) | 2516 | ⚠️ | LinkedIn 浏览器自动化 MCP | 2026-06-26 |
 | MCP-NixOS | [utensils/mcp-nixos](https://github.com/utensils/mcp-nixos) | 722 | ✅ | NixOS 知识 MCP 服务器 | 2026-06-26 |
 | ComfyUI MCP | [artokun/comfyui-mcp](https://github.com/artokun/comfyui-mcp) | 185 | ✅ | ComfyUI 图像生成 MCP | 2026-06-26 |
-| codedb | [justrach/codedb](https://github.com/justrach/codedb) | 1,337 | ✅ | 基于 Zig 的零依赖代码智能 MCP 服务器 | 2026-06-27 |
+| codedb | [justrach/codedb](https://github.com/justrach/codedb) | 1,337 | ✅ | 下载即用 | 基于 Zig 的零依赖代码智能 MCP 服务器 | 2026-06-27 |
+| Codebase Memory MCP | [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | 15,619 | ✅ | 单二进制 | 代码智能 MCP，SLSA Level 3，158 语言，99% token 节省 | 2026-06-27 |
