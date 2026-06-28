@@ -18,6 +18,47 @@
 
 ---
 
+## 2026-06-28 — Daily Harvest
+
+### 8 Items Added
+| # | 名称 | 类型 | Stars | 来源 | 安全 | 得分 |
+|---|------|------|-------|------|------|------|
+| 1 | ECC Agent Harness | skill | 222,624 ⭐ | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ✅ PASS | 99/100 |
+| 2 | Academic Research Skills | skill | 34,884 ⭐ | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | ✅ PASS | 95/100 |
+| 3 | Agent Skills (Addy Osmani) | skill | 67,274 ⭐ | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | ✅ PASS | 93/100 |
+| 4 | Last30Days Skill | skill | 47,175 ⭐ | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | ✅ PASS | 92/100 |
+| 5 | UI UX Pro Max Skill | skill | 97,170 ⭐ | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | ✅ PASS | 91/100 |
+| 6 | Planning with Files | skill | 24,028 ⭐ | [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) | ✅ PASS | 91/100 |
+| 7 | Career-Ops | skill | 56,179 ⭐ | [santifer/career-ops](https://github.com/santifer/career-ops) | ✅ PASS | 89/100 |
+| 8 | Caveman | skill | 77,438 ⭐ | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | ✅ PASS | 88/100 |
+
+### 策略说明
+- 搜索词: `claude-code skill topic:claude-code`, `claude mcp server tool productivity`, `claude-code hooks extension plugin`
+- 候选总数: ~65 个
+- 安全筛查通过: 12 个 | 安全失败: 0 | 低分淘汰: 4 个
+- 星数中位数（今日入选）: 61,727
+
+### 分类多样性
+- Agent Harness: 1 项（ECC — 67 agents, 271 skills, AgentShield）
+- Academic/Research: 1 项（academic-research-skills — 42 agents, citation verification）
+- Engineering Workflow: 1 项（agent-skills — 24 skills, Addy Osmani / Google Chrome）
+- Research Automation: 1 项（last30days-skill — 13+ platforms, engagement scoring）
+- UI/UX Design: 1 项（ui-ux-pro-max-skill — 67 styles, 161 palettes, 22 stacks）
+- Project Planning: 1 项（planning-with-files — persistent context, SHA-256 attestation）
+- Career/Productivity: 1 项（career-ops — 14 modes, Go dashboard, 45+ portals）
+- Token Optimization: 1 项（caveman — 65% reduction, benchmarked）
+
+### Self-Optimization Notes
+与前三日对比：
+- 2026-06-25: 低星精品为主
+- 2026-06-26: 广泛覆盖多类别（平均 ~17k⭐）
+- 2026-06-27: 垂直领域专项（游戏开发、网络安全、浏览器能力），平均 ~30k⭐
+- 2026-06-28（今日）: 高星广覆盖，引入 token 优化、职业生产力、学术研究等新类别，平均星数大幅提升至 ~61k⭐
+- **趋势**: 越来越多高质量仓库涌现，`topic:claude-code` 搜索效率最高，明日可尝试 `claude-code+research+agent` 及 `claude skill writing workflow` 等新词
+- **安全标准**: 固定不变，本次 12 个候选全部通过安全审查
+
+---
+
 ## 2026-06-27 — Daily Harvest
 
 ### 8 Items Added
