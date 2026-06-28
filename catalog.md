@@ -1,6 +1,6 @@
 # Claude Skills Hub — 完整目录
 
-> 最后更新：2026-06-27 | 收录总数：46 项
+> 最后更新：2026-06-28 | 收录总数：54 项
 
 ## Claude Code Skills
 
@@ -11,21 +11,26 @@
 | Caveman | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 76,622 | ✅ | 削减 ~75% 输出 token 的穴居人表达 skill | 2026-06-25 |
 | Graphify | [safishamsi/graphify](https://github.com/safishamsi/graphify) | 72,588 | ✅ | 将代码库/文档/视频转为可查询知识图谱，零遥测，支持多 LLM | 2026-06-27 |
 | Agent Skills | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 66,764 | ✅ | Addy Osmani 出品的 24 个生产级工程 skills，覆盖完整开发生命周期 | 2026-06-26 |
-| Taste Skill | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 51,568 | ✅ | 给 AI 赋予审美品味，终结千篇一律的泛型输出 | 2026-06-27 |
 | Career Ops | [santifer/career-ops](https://github.com/santifer/career-ops) | 55,728 | ✅ | AI 求职自动化：14 skill 模式 + Go 仪表盘，评估 740+ offer | 2026-06-26 |
+| Taste Skill | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 51,568 | ✅ | 给 AI 赋予审美品味，终结千篇一律的泛型输出 | 2026-06-27 |
 | Antigravity Awesome Skills | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | 41,782 | ✅ | 1,600+ agentic skill 的可安装 GitHub 库，支持多平台 | 2026-06-27 |
 | Last 30 Days | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 46,718 | ✅ | 聚合 Reddit/X/YouTube/HN/Polymarket 的最近 30 天实时话题研究 | 2026-06-26 |
+| Marketing Skills | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 35,211 | ✅ | 技术营销人员的 CRO/SEO/文案 AI skill 库，支持多平台 | 2026-06-28 |
 | Academic Research Skills | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 34,475 | ✅ | 10 阶段学术写作流水线，含反幻觉门控和文献引用核查 | 2026-06-26 |
 | Scientific Agent Skills | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 29,410 | ✅ | 147 个科学研究技能 + 100+ 数据库，面向 AI 科学家 | 2026-06-27 |
 | Awesome Agent Skills | [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) | 26,555 | ✅ | 精选 1000+ 官方团队和社区 agent skills 合集 | 2026-06-27 |
 | Humanizer | [blader/humanizer](https://github.com/blader/humanizer) | 25,994 | ✅ | 去除文本 AI 生成痕迹，使写作更自然 | 2026-06-25 |
+| OpenMontage | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 25,241 | ✅ | 首个开源 agentic 视频生产系统，支持多 AI 视频提供商 | 2026-06-28 |
 | Planning with Files | [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) | 23,897 | ✅ | 持久化文件规划，agent 崩溃后可恢复 | 2026-06-25 |
 | Frontend Slides | [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) | 23,308 | ✅ | 用 coding agent 前端技能生成精美 HTML 幻灯片，支持 PPTX 导入 | 2026-06-27 |
 | Claude Code Game Studios | [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | 22,339 | ✅ | 49 AI 代理 + 72 工作流 skill，Claude Code 变完整游戏开发工作室 | 2026-06-27 |
 | Anthropic Cybersecurity Skills | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 21,801 | ✅ | 817 安全技能，覆盖 MITRE ATT&CK / NIST CSF 等 6 大框架 | 2026-06-27 |
 | Huashu Design | [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design) | 19,683 | ✅ | Claude Code HTML 原生设计 skill，3~30 分钟出大厂级交付物 | 2026-06-25 |
 | Claude Code Skills (alirezarezvani) | [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) | 19,147 | ✅ | 337 个生产级技能，覆盖工程/营销/合规/C 级顾问等 | 2026-06-27 |
+| notebooklm-py | [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) | 16,913 | ✅ | Google NotebookLM 完整 Python API + Claude agentic skill | 2026-06-28 |
 | Humanizer-zh | [op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh) | 11,493 | ✅ | Humanizer 中文版，去除中文 AI 写作痕迹的 Claude Code skill | 2026-06-25 |
+| AI Research SKILLs | [Orchestra-Research/AI-Research-SKILLs](https://github.com/Orchestra-Research/AI-Research-SKILLs) | 10,172 | ✅ | 98 个专业 skill，让 AI agent 自主完成 AI 研究从创意到论文 | 2026-06-28 |
+| Claude SEO | [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) | 9,962 | ✅ | Claude Code SEO 分析插件：25 个子技能 + 18 个专业 agent，零遥测 | 2026-06-28 |
 | ARIS | [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) | 12,594 | ✅ | 让 agent 在你睡觉时自主执行研究任务 | 2026-06-25 |
 | Dev Browser | [SawyerHood/dev-browser](https://github.com/SawyerHood/dev-browser) | 6,333 | ✅ | 给 Claude Code agent 提供真实浏览器能力，QuickJS WASM 沙箱 | 2026-06-27 |
 | Claude Code Ultimate Guide | [FlorianBruniaux/claude-code-ultimate-guide](https://github.com/FlorianBruniaux/claude-code-ultimate-guide) | 5,221 | ✅ | 最全面的 Claude Code 指南，含 181 模板和威胁数据库 | 2026-06-27 |
@@ -56,8 +61,8 @@
 | ECC | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 221,747 | ✅ | 67 agents + 271 skills 的 agent 操作系统，内置 AgentShield 安全扫描 | 2026-06-26 |
 | Open Design | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 71,173 | ✅ | 本地优先 Claude Design 替代品，100+ skills + 150 设计系统 | 2026-06-26 |
 | Claude HUD | [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | 25,716 | ✅ | 实时显示上下文用量、工具状态和 agent 进度 | 2026-06-25 |
+| Phantom | [ghostwright/phantom](https://github.com/ghostwright/phantom) | 1,434 | ⚠️ | 拥有独立计算机的 AI 同事，持久记忆 + AES 加密 + Slack 集成 | 2026-06-28 |
 | Jeffallan Claude Skills | [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) | 10,193 | ✅ | 面向全栈开发者的 66 个专业 skill + 9 个工作流 | 2026-06-25 |
-| Claude Code Skills (lev) | [levnikolaevich/claude-code-skills](https://github.com/levnikolaevich/claude-code-skills) | 501 | ✅ | 137 skills + 7 plugins + 3 自研 MCP server 的全生命周期套件 | 2026-06-26 |
 | Vibecosystem | [vibeeval/vibecosystem](https://github.com/vibeeval/vibecosystem) | 507 | ✅ | 138 agents + 296 skills + 74 hooks 的 AI 软件团队套件 | 2026-06-25 |
 | PostHog AI Plugin | [PostHog/ai-plugin](https://github.com/PostHog/ai-plugin) | 57 | ⚠️ | PostHog 官方 Claude Code 插件，产品分析数据查询与 LLM 追踪 | 2026-06-26 |
 
@@ -66,6 +71,32 @@
 | 名称 | 仓库 | Stars | 安全 | 简介 | 首次收录 |
 |------|------|-------|------|------|----------|
 | Awesome Claude Code | [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | 47,240 | ✅ | 精选 Claude Code skills、hooks、slash-commands 和 agent 编排器 | 2026-06-25 |
+| Awesome Claude Skills | [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) | 13,767 | ✅ | 精选 Claude Skills、工具和资源的 awesome 列表，含架构说明 | 2026-06-28 |
+| Awesome Claude Plugins | [ComposioHQ/awesome-claude-plugins](https://github.com/ComposioHQ/awesome-claude-plugins) | 1,777 | ✅ | Composio 出品的生产级 Claude Code 插件精选列表 | 2026-06-28 |
+
+---
+
+## 2026-06-28 新增（8 项）
+
+### Claude Code Skills（新增）
+| 名称 | 仓库 | Stars | 安全 | 简介 | 首次收录 |
+|------|------|-------|------|------|----------|
+| Marketing Skills | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 35,211 | ✅ | 技术营销人员的 CRO/SEO/文案 AI skill 库，支持多平台 | 2026-06-28 |
+| notebooklm-py | [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) | 16,913 | ✅ | Google NotebookLM 完整 Python API + Claude agentic skill | 2026-06-28 |
+| AI Research SKILLs | [Orchestra-Research/AI-Research-SKILLs](https://github.com/Orchestra-Research/AI-Research-SKILLs) | 10,172 | ✅ | 98 个专业 skill，让 AI agent 自主完成 AI 研究从创意到论文 | 2026-06-28 |
+| Claude SEO | [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) | 9,962 | ✅ | Claude Code SEO 分析插件：25 个子技能 + 18 个专业 agent | 2026-06-28 |
+
+### Plugins & Tools（新增）
+| 名称 | 仓库 | Stars | 安全 | 简介 | 首次收录 |
+|------|------|-------|------|------|----------|
+| OpenMontage | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 25,241 | ✅ | 首个开源 agentic 视频生产系统，AGPL v3 | 2026-06-28 |
+| Phantom | [ghostwright/phantom](https://github.com/ghostwright/phantom) | 1,434 | ⚠️ | 拥有独立计算机的 AI 同事，持久记忆 + AES 加密 + Slack 集成 | 2026-06-28 |
+
+### 资源（新增）
+| 名称 | 仓库 | Stars | 安全 | 简介 | 首次收录 |
+|------|------|-------|------|------|----------|
+| Awesome Claude Skills | [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) | 13,767 | ✅ | 精选 Claude Skills、工具和资源的 awesome 列表，含架构说明 | 2026-06-28 |
+| Awesome Claude Plugins | [ComposioHQ/awesome-claude-plugins](https://github.com/ComposioHQ/awesome-claude-plugins) | 1,777 | ✅ | Composio 出品的生产级 Claude Code 插件精选列表 | 2026-06-28 |
 
 ---
 
