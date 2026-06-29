@@ -1,6 +1,6 @@
 # MCP Servers 汇总
 
-> 最后更新：2026-06-27 | 收录：12 项
+> 最后更新：2026-06-29 | 收录：12 项
 
 | 名称 | 仓库 | Stars | 安全 | 安装方式 | 简介 | 首次收录 |
 |------|------|-------|------|----------|------|----------|
@@ -16,3 +16,5 @@
 | ComfyUI MCP | [artokun/comfyui-mcp](https://github.com/artokun/comfyui-mcp) | 185 | ✅ | ComfyUI 图像生成 MCP | 2026-06-26 |
 | codedb | [justrach/codedb](https://github.com/justrach/codedb) | 1,337 | ✅ | 下载即用 | 基于 Zig 的零依赖代码智能 MCP 服务器 | 2026-06-27 |
 | Codebase Memory MCP | [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | 15,619 | ✅ | 单二进制 | 代码智能 MCP，SLSA Level 3，158 语言，99% token 节省 | 2026-06-27 |
+| MaverickMCP | [wshobson/maverick-mcp](https://github.com/wshobson/maverick-mcp) | 605 | ✅ | 个人股票分析 MCP server，内置 520 只 S&P500 数据，本地运行 | 2026-06-29 |
+| Awesome MCP Servers | [TensorBlock/awesome-mcp-servers](https://github.com/TensorBlock/awesome-mcp-servers) | 763 | ✅ | 社区精选 MCP server 综合目录，含托管搜索 API | 2026-06-29 |
