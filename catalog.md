@@ -1,6 +1,6 @@
 # Claude Skills Hub — 完整目录
 
-> 最后更新：2026-06-28 | 收录总数：54 项
+> 最后更新：2026-06-29 | 收录总数：89 项
 
 ## Claude Code Skills
 
@@ -38,6 +38,7 @@
 | Storybloq | [Storybloq/storybloq](https://github.com/Storybloq/storybloq) | 629 | ✅ | 跨 session 的项目上下文持久化工具，含 CLI + MCP + skill | 2026-06-26 |
 | Claude Code Skills (levnikolaevich) | [levnikolaevich/claude-code-skills](https://github.com/levnikolaevich/claude-code-skills) | 501 | ✅ | 137 个 skill 插件套件，覆盖完整开发生命周期 | 2026-06-26 |
 
+| AgentShield | [affaan-m/agentshield](https://github.com/affaan-m/agentshield) | 930 | ✅ | Claude Code 安全审计工具，扫描硬编码密钥、权限误配和钩子注入漏洞 | 2026-06-29 |
 ## MCP Servers
 
 | 名称 | 仓库 | Stars | 安全 | 简介 | 首次收录 |
@@ -54,6 +55,8 @@
 | MCP-NixOS | [utensils/mcp-nixos](https://github.com/utensils/mcp-nixos) | 722 | ✅ | 为 Claude 提供 NixOS 包与选项知识的 MCP 服务器 | 2026-06-26 |
 | ComfyUI MCP | [artokun/comfyui-mcp](https://github.com/artokun/comfyui-mcp) | 185 | ✅ | ComfyUI 图像/视频生成的 Claude Code 插件与 MCP Server | 2026-06-26 |
 
+| MaverickMCP | [wshobson/maverick-mcp](https://github.com/wshobson/maverick-mcp) | 605 | ✅ | 个人股票分析 MCP server，内置 520 只 S&P500 数据，本地运行 | 2026-06-29 |
+| Awesome MCP Servers | [TensorBlock/awesome-mcp-servers](https://github.com/TensorBlock/awesome-mcp-servers) | 763 | ✅ | 社区精选 MCP server 综合目录，含托管搜索 API | 2026-06-29 |
 ## Plugins & Tools
 
 | 名称 | 仓库 | Stars | 安全 | 简介 | 首次收录 |
@@ -66,6 +69,11 @@
 | Vibecosystem | [vibeeval/vibecosystem](https://github.com/vibeeval/vibecosystem) | 507 | ✅ | 138 agents + 296 skills + 74 hooks 的 AI 软件团队套件 | 2026-06-25 |
 | PostHog AI Plugin | [PostHog/ai-plugin](https://github.com/PostHog/ai-plugin) | 57 | ⚠️ | PostHog 官方 Claude Code 插件，产品分析数据查询与 LLM 追踪 | 2026-06-26 |
 
+| Awesome Claude Code Toolkit | [rohitg00/awesome-claude-code-toolkit](https://github.com/rohitg00/awesome-claude-code-toolkit) | 2199 | ✅ | 最全面的 Claude Code 工具包：135 agents、35+ skills、176+ plugins | 2026-06-29 |
+| HOL Guard | [hashgraph-online/hol-guard](https://github.com/hashgraph-online/hol-guard) | 376 | ✅ | AI 编程助手防病毒工具，检测 plugin 中的恶意代码和数据外泄行为 | 2026-06-29 |
+| HeyClaude | [JSONbored/awesome-claude](https://github.com/JSONbored/awesome-claude) | 273 | ✅ | 1339+ 人工审核条目的 Claude 工作流基础设施目录，含 MCP package | 2026-06-29 |
+| Claudest | [gupsammy/Claudest](https://github.com/gupsammy/Claudest) | 255 | ✅ | 实战验证的 Claude Code plugin 市场，含本地 SQLite 对话记忆功能 | 2026-06-29 |
+| Claude Code ChatInWindows | [LKbaba/Claude-code-ChatInWindows](https://github.com/LKbaba/Claude-code-ChatInWindows) | 217 | ✅ | VS Code 全功能 GUI 扩展，原生支持 Windows（无需 WSL） | 2026-06-29 |
 ## 资源汇总
 
 | 名称 | 仓库 | Stars | 安全 | 简介 | 首次收录 |
