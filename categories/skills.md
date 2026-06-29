@@ -1,6 +1,6 @@
 # Claude Code Skills 汇总
 
-> 最后更新：2026-06-28 | Skills 总数：31 项
+> 最后更新：2026-06-29 | Skills 总数：31 项
 
 | 名称 | 仓库 | Stars | 安全 | 简介 | 首次收录 |
 |------|------|-------|------|------|----------|
@@ -35,3 +35,4 @@
 | Storybloq | [Storybloq/storybloq](https://github.com/Storybloq/storybloq) | 629 | ✅ | 跨 session 的项目上下文持久化工具，含 CLI + MCP + skill | 2026-06-26 |
 | Jeffallan Claude Skills | [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) | 10,193 | ✅ | 面向全栈开发者的 66 个专业 skill + 9 个工作流 | 2026-06-25 |
 | Claude Code Skills (levnikolaevich) | [levnikolaevich/claude-code-skills](https://github.com/levnikolaevich/claude-code-skills) | 501 | ✅ | 137 个 skill 插件套件，覆盖完整开发生命周期 | 2026-06-26 |
+| AgentShield | [affaan-m/agentshield](https://github.com/affaan-m/agentshield) | 930 | ✅ | Claude Code 安全审计工具，扫描硬编码密钥、权限误配和钩子注入漏洞 | 2026-06-29 |
