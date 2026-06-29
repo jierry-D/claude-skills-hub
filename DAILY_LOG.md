@@ -2,19 +2,86 @@
 ## 策略说明（持续更新）
 
 ### 搜索优先词（按效果排序）
-1. `claude-code skill topic:claude-code` — 命中最精准
-2. `claude-code knowledge graph codebase intelligence` — 高质量工具专项
-3. `claude code game development agent studio skill` — 垂直领域
-4. `claude mcp server tool productivity` — MCP 服务器
-5. `claude-code hooks extension plugin` — 扩展生态
+1. `claude-code skill` — 最广泛覆盖，配合星数过滤（效果最稳定）
+2. `claude mcp plugin` — MCP 服务器和扩展插件
+3. `claude-code knowledge graph codebase intelligence` — 高质量工具专项
+4. `claude code game development agent studio skill` — 垂直领域（游戏、艺术）
+5. `claude mcp server tool productivity` — MCP 服务器
+6. `claude-code hooks extension plugin` — 扩展生态
+7. `anthropic claude tool productivity developer` — 广泛工具搜索
+8. `claude-code devops skill` — DevOps 专项（下周新增）
+9. `claude skill data science` — 数据科学专项（下周新增）
 
-### 星数阈值
-- 500+ 即可考虑收录（代码质量和文档要求更严格）
-- 5,000+ 自动进入快速通道
+### 星数阈值（动态调整）
+- 当前门槛: 26,000+ stars（广泛类）
+- 垂直专项领域: 1,000+ 可酌情考虑（代码审查更严格）
 - 已排除大型非专项仓库（JeecgBoot、CowAgent 等）
+- 已收录项目不重复收录（全量排重）
 
 ### 安全标准（不可更改，权重固定 40%）
 详见 SECURITY.md
+
+---
+
+## 2026-06-29 — Daily Harvest (Monday — Weekly Strategy Review)
+
+### 8 Items Added
+| # | Name | Type | Stars | Source | Security | Score |
+|---|------|------|-------|--------|----------|-------|
+| 1 | Andrej Karpathy Skills | skill | 183,962 ⭐ | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | ✅ PASS | 95/100 |
+| 2 | Open Design | plugin | 72,415 ⭐ | [nexu-io/open-design](https://github.com/nexu-io/open-design) | ✅ PASS | 93/100 |
+| 3 | Awesome Claude Code | skill | 47,531 ⭐ | [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | ✅ PASS | 90/100 |
+| 4 | Agents Plugin Marketplace | plugin | 37,296 ⭐ | [wshobson/agents](https://github.com/wshobson/agents) | ✅ PASS | 90/100 |
+| 5 | Marketing Skills | skill | 35,312 ⭐ | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | ✅ PASS | 87/100 |
+| 6 | Claude Plugins Official | plugin | 31,264 ⭐ | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | ✅ PASS | 87/100 |
+| 7 | Scientific Agent Skills | skill | 29,521 ⭐ | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | ✅ PASS | 88/100 |
+| 8 | Humanizer | skill | 26,600 ⭐ | [blader/humanizer](https://github.com/blader/humanizer) | ✅ PASS | 85/100 |
+
+### Strategy Used Today
+- Search queries: `claude-code skill`, `claude mcp plugin`, `claude hooks extension productivity`, `anthropic claude tool productivity developer`
+- Total candidates evaluated: ~70
+- Rejected (security fail): 0 | Rejected (duplicate / low score): 62
+- Star threshold applied: 26,000+
+- Category diversity: 8 distinct categories (behavior tuning, design tool, curated list, marketplace, marketing, official directory, science, writing quality)
+
+### Self-Optimization Notes
+与前三日对比：
+- 2026-06-26: 低星精品为主（平均 ~700⭐）
+- 2026-06-27: 垂直领域专项（游戏开发、安全、浏览器能力），平均 ~30k⭐
+- 2026-06-28: 高星广覆盖（token 优化、职业生产力、学术研究），平均 ~61k⭐
+- 2026-06-29（今日）: 继续高星策略，引入全新类别（行为调优、设计工具、营销垂直、官方目录、写作质量），平均 ~57k⭐
+- **趋势**: 每日引入 1-2 个全新类别，保持内容差异化；插件比例偏低（21%），需补足
+- **安全标准**: 固定不变，本次 8/8 通过，0 安全失败
+
+### Weekly Strategy Review (2026-06-29 — Monday)
+
+#### 过去4天分析（2026-06-26 至 2026-06-29）
+| 日期 | 收录数 | Skills | Plugins | 平均星数 | 安全拒绝 |
+|------|--------|--------|---------|----------|----------|
+| 2026-06-26 | 8 | 4 | 4 | ~700⭐ | 0 |
+| 2026-06-27 | 8 | 6 | 2 | ~30,500⭐ | 0 |
+| 2026-06-28 | 8 | 8 | 0 | ~61,700⭐ | 0 |
+| 2026-06-29 | 8 | 5 | 3 | ~57,987⭐ | 0 |
+| **合计** | **32** | **23** | **9** | — | **0** |
+
+#### 类别覆盖现状（截至 2026-06-29，共 24 项）
+**Skills (19项):** Agent Harness · Behavior/CLAUDE.md · UI/UX Design · Token Optimization · Career · Academic Research · Research Automation · Planning · Security/Cybersecurity · Game Development · Writing Quality · Curated Reference · Marketing · Scientific Research · Engineering Workflow · Frontend/Slides
+
+**Plugins (5项):** Knowledge Graph · MCP Memory · Design Tool · Plugin Marketplace · Official Directory
+
+#### 类别缺口分析（下周优先补足）
+1. **DevOps / CI-CD** — 无覆盖，高需求（搜索词: `claude-code devops skill`）
+2. **Data Science / ML Engineering** — 有科学类但缺工程化工具
+3. **Legal / Compliance** — 无覆盖
+4. **Education / Learning** — 无覆盖
+5. **Database / SQL** — pg-aiguide（Timescale, 1,773⭐）值得专项考虑
+
+#### 策略调整建议（安全标准不可更改）
+1. **新增搜索词**: `claude-code devops skill`, `claude skill data science`, `claude code legal compliance`, `claude mcp database`
+2. **星数策略**: 广泛类维持 25,000+；垂直专项可降至 1,000+（需更严格代码审查）
+3. **Awesome-list 控制**: 当前 2/24（8.3%），后续控制在总数 <10% 内
+4. **插件比例目标**: 当前 21% → 目标 30%；优先寻找高质量 MCP 服务器
+5. **安全标准**: 永久固定 40% 权重，不可更改，不可软化
 
 ---
 
@@ -54,7 +121,7 @@
 - 2026-06-26: 广泛覆盖多类别（平均 ~17k⭐）
 - 2026-06-27: 垂直领域专项（游戏开发、网络安全、浏览器能力），平均 ~30k⭐
 - 2026-06-28（今日）: 高星广覆盖，引入 token 优化、职业生产力、学术研究等新类别，平均星数大幅提升至 ~61k⭐
-- **趋势**: 越来越多高质量仓库涌现，`topic:claude-code` 搜索效率最高，明日可尝试 `claude-code+research+agent` 及 `claude skill writing workflow` 等新词
+- **趋势**: 越来越多高质量仓库涌现，`topic:claude-code` 搜索效率最高
 - **安全标准**: 固定不变，本次 12 个候选全部通过安全审查
 
 ---
