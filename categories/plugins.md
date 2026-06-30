@@ -16,3 +16,4 @@
 | HeyClaude | [JSONbored/awesome-claude](https://github.com/JSONbored/awesome-claude) | 273 | ✅ | 1339+ 人工审核条目的 Claude 工作流基础设施目录，含 MCP package | 2026-06-29 |
 | Claudest | [gupsammy/Claudest](https://github.com/gupsammy/Claudest) | 255 | ✅ | 实战验证的 Claude Code plugin 市场，含本地 SQLite 对话记忆功能 | 2026-06-29 |
 | Claude Code ChatInWindows | [LKbaba/Claude-code-ChatInWindows](https://github.com/LKbaba/Claude-code-ChatInWindows) | 217 | ✅ | VS Code 全功能 GUI 扩展，原生支持 Windows（无需 WSL） | 2026-06-29 |
+| Slack MCP Plugin | [slackapi/slack-mcp-plugin](https://github.com/slackapi/slack-mcp-plugin) | 69 | ✅ | 官方 Slack MCP plugin + 6 个 Skill | 2026-06-30 |
