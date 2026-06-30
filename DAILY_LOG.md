@@ -23,6 +23,38 @@
 
 ---
 
+## 2026-06-30 — Daily Harvest
+
+### 8 Items Added
+| # | Name | Type | Stars | Source | Security | Score |
+|---|------|------|-------|--------|----------|-------|
+| 1 | headroom | plugin | 53,884 ⭐ | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | ✅ PASS | 95/100 |
+| 2 | code-review-graph | plugin | 18,996 ⭐ | [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | ✅ PASS | 92/100 |
+| 3 | terraform-skill | skill | 2,086 ⭐ | [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) | ✅ PASS | 91/100 |
+| 4 | ARIS | skill | 12,790 ⭐ | [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) | ✅ PASS | 88/100 |
+| 5 | dbhub | plugin | 3,057 ⭐ | [bytebase/dbhub](https://github.com/bytebase/dbhub) | ✅ PASS | 94/100 |
+| 6 | cursor-talk-to-figma-mcp | plugin | 6,865 ⭐ | [grab/cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp) | ✅ PASS | 89/100 |
+| 7 | ring | plugin | 201 ⭐ | [LerianStudio/ring](https://github.com/LerianStudio/ring) | ✅ PASS | 80/100 |
+| 8 | mcp-ssh-manager | plugin | 332 ⭐ | [bvisible/mcp-ssh-manager](https://github.com/bvisible/mcp-ssh-manager) | ✅ PASS | 77/100 |
+
+### Strategy Used Today
+- Search queries: `claude-code devops skill`, `claude mcp database sql server`, `claude mcp plugin extension productivity`, `claude skill data science machine learning`, `claude code education learning skill tutorial`, `claude mcp server observability monitoring`, `claude-code skill CI CD pipeline github actions`, `topic:claude-code topic:devops stars:>100`, `topic:claude-code topic:mcp stars:>50`
+- Total candidates evaluated: ~80
+- Rejected (security fail): 0 | Rejected (duplicate or low score): ~72
+- Star threshold applied: flexible — DevOps/infra verticals accepted at 200+ stars with strict code review
+
+### Self-Optimization Notes
+与前四日对比：
+- 2026-06-26: 低星精品为主（平均 ~700⭐）
+- 2026-06-27: 垂直领域专项（游戏、安全、浏览器），平均 ~30k⭐
+- 2026-06-28: 高星广覆盖（token 优化、职业生产力、学术研究），平均 ~61k⭐
+- 2026-06-29: 行为调优、设计工具、营销、官方目录、写作质量，平均 ~57k⭐
+- 2026-06-30（今日）: 聚焦策略缺口（DevOps/IaC、数据库/SQL、代码智能图谱、ML研究自动化），平均 ~12k⭐；插件比例大幅提升（6/8 = 75%）
+- **趋势**: 插件比例从 21% 提升至 34%，达成本周目标（>30%）；Database/SQL、DevOps/IaC、ML研究、代码智能4个新类别全部补足
+- **安全标准**: 固定不变，8/8 通过，0 安全失败；headroom 明确标注 CVE 修复版本，code-review-graph 在 pyproject.toml 中标注 CVE 修复
+
+---
+
 ## 2026-06-29 — Daily Harvest (Monday — Weekly Strategy Review)
 
 ### 8 Items Added

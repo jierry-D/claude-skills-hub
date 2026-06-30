@@ -14,18 +14,18 @@
 所有收录项目均经过基础安全评估，但请在安装前自行审查代码。收录不代表背书。详见 [SECURITY.md](SECURITY.md)。
 
 ## 最近更新
-最后更新：2026-06-29
+最后更新：2026-06-30
 
 <!-- STATS START -->
 ## 收录统计
 
 | 指标 | 数值 |
 |------|------|
-| 总收录数 | 24 |
-| Skills | 19 |
-| Plugins / MCP | 5 |
-| 最后更新 | 2026-06-29 |
-| 覆盖类别数 | 18 |
+| 总收录数 | 32 |
+| Skills | 21 |
+| Plugins / MCP | 11 |
+| 最后更新 | 2026-06-30 |
+| 覆盖类别数 | 22 |
 | 安全审查通过率 | 100% |
 
 ### 星数最高 Top 5
@@ -34,15 +34,17 @@
 | 1 | [ECC Agent Harness](skills/ECC/) | 222,624 ⭐ | skill |
 | 2 | [Andrej Karpathy Skills](skills/andrej-karpathy-skills/) | 183,962 ⭐ | skill |
 | 3 | [UI UX Pro Max Skill](skills/ui-ux-pro-max-skill/) | 97,473 ⭐ | skill |
-| 4 | [Caveman](skills/caveman/) | 77,645 ⭐ | skill |
-| 5 | [Open Design](plugins/open-design/) | 72,415 ⭐ | plugin |
+| 4 | [headroom](plugins/headroom/) | 53,884 ⭐ | plugin |
+| 5 | [Caveman](skills/caveman/) | 77,645 ⭐ | skill |
 
 ### 类别分布
 | 类别 | 数量 |
 |------|------|
 | Agent Harness / Workflow | 3 |
 | Design / UI/UX | 3 |
+| Figma MCP | 1 |
 | Research / Academic | 3 |
+| ML Research Automation | 1 |
 | Writing / Quality | 2 |
 | Security / Cybersecurity | 1 |
 | Career / Productivity | 1 |
@@ -51,10 +53,14 @@
 | Game Development | 1 |
 | Planning / Project Mgmt | 1 |
 | Behavior Tuning / CLAUDE.md | 1 |
-| Token Optimization | 1 |
+| Token Optimization / MCP Proxy | 2 |
 | Plugin Marketplace | 1 |
 | Official Directory | 1 |
 | MCP / Memory | 1 |
-| Knowledge Graph | 1 |
+| Knowledge Graph / Code Intelligence | 2 |
 | Curated Reference | 2 |
+| Database / SQL | 1 |
+| DevOps / Infrastructure-as-Code | 1 |
+| DevOps / SSH Management | 1 |
+| Engineering Practices / TDD | 1 |
 <!-- STATS END -->
