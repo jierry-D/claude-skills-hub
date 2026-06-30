@@ -36,3 +36,6 @@
 | Jeffallan Claude Skills | [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) | 10,193 | ✅ | 面向全栈开发者的 66 个专业 skill + 9 个工作流 | 2026-06-25 |
 | Claude Code Skills (levnikolaevich) | [levnikolaevich/claude-code-skills](https://github.com/levnikolaevich/claude-code-skills) | 501 | ✅ | 137 个 skill 插件套件，覆盖完整开发生命周期 | 2026-06-26 |
 | AgentShield | [affaan-m/agentshield](https://github.com/affaan-m/agentshield) | 930 | ✅ | Claude Code 安全审计工具，扫描硬编码密钥、权限误配和钩子注入漏洞 | 2026-06-29 |
+| Everything Claude Code (中文版) | [xu-xiang/everything-claude-code-zh](https://github.com/xu-xiang/everything-claude-code-zh) | 1,499 | ✅ | Anthropic 黑客松获胜中文配置集合 | 2026-06-30 |
+| Claude Code Mastery | [TheDecipherist/claude-code-mastery](https://github.com/TheDecipherist/claude-code-mastery) | 536 | ✅ | Claude Code 完整指南 + MDD 文档驱动开发 skill | 2026-06-30 |
+| Frontend Design Toolkit | [wilwaldon/Claude-Code-Frontend-Design-Toolkit](https://github.com/wilwaldon/Claude-Code-Frontend-Design-Toolkit) | 396 | ✅ | 70+ 工具的前端设计工具箱 | 2026-06-30 |
