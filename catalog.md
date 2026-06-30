@@ -1,6 +1,6 @@
 # Claude Skills Hub — 完整目录
 
-> 最后更新：2026-06-29 | 收录总数：89 项
+> 最后更新：2026-06-30 | 收录总数：97 项
 
 ## Claude Code Skills
 
@@ -154,3 +154,27 @@
 | 名称 | 仓库 | Stars | 安全 | 简介 | 首次收录 |
 |------|------|-------|------|------|----------|
 | PostHog AI Plugin | [PostHog/ai-plugin](https://github.com/PostHog/ai-plugin) | 57 | ⚠️ | PostHog 官方 Claude Code 插件，产品分析数据查询与 LLM 追踪 | 2026-06-26 |
+
+---
+
+## 2026-06-30 新增（8 项）
+
+### Claude Code Skills（新增）
+| 名称 | 仓库 | Stars | 安全 | 简介 | 首次收录 |
+|------|------|-------|------|------|----------|
+| Everything Claude Code (中文版) | [xu-xiang/everything-claude-code-zh](https://github.com/xu-xiang/everything-claude-code-zh) | 1,499 | ✅ | Anthropic 黑客松获胜作品中文完整配置集合（agents/skills/hooks/MCPs） | 2026-06-30 |
+| Claude Code Mastery | [TheDecipherist/claude-code-mastery](https://github.com/TheDecipherist/claude-code-mastery) | 536 | ✅ | Claude Code 完整指南 + MDD 文档驱动开发 21 模式 skill 包 | 2026-06-30 |
+| Frontend Design Toolkit | [wilwaldon/Claude-Code-Frontend-Design-Toolkit](https://github.com/wilwaldon/Claude-Code-Frontend-Design-Toolkit) | 396 | ✅ | 70+ 工具的 Claude Code 前端设计工具箱，10 大专题 | 2026-06-30 |
+
+### MCP Servers（新增）
+| 名称 | 仓库 | Stars | 安全 | 简介 | 首次收录 |
+|------|------|-------|------|------|----------|
+| vllm-mlx | [waybarrios/vllm-mlx](https://github.com/waybarrios/vllm-mlx) | 1,378 | ✅ | Apple Silicon 原生推理服务器，OpenAI+Anthropic 双 API，支持 MCP 工具调用 | 2026-06-30 |
+| Polymarket MCP Server | [caiovicentino/polymarket-mcp-server](https://github.com/caiovicentino/polymarket-mcp-server) | 582 | ⚠️ | 45 工具 AI 预测市场 MCP Server，企业级安全，含实时监控 | 2026-06-30 |
+| MCP SSH Manager | [bvisible/mcp-ssh-manager](https://github.com/bvisible/mcp-ssh-manager) | 332 | ⚠️ | 37 工具的 SSH 远程管理 MCP Server，支持 DevOps 自动化 | 2026-06-30 |
+| Hass-MCP | [voska/hass-mcp](https://github.com/voska/hass-mcp) | 305 | ⚠️ | 控制和查询 Home Assistant 智能家居的 MCP Server | 2026-06-30 |
+
+### Plugins & Tools（新增）
+| 名称 | 仓库 | Stars | 安全 | 简介 | 首次收录 |
+|------|------|-------|------|------|----------|
+| Slack MCP Plugin | [slackapi/slack-mcp-plugin](https://github.com/slackapi/slack-mcp-plugin) | 69 | ✅ | 官方 Slack MCP plugin + 6 个 Skill，Marketplace 一键安装 | 2026-06-30 |
