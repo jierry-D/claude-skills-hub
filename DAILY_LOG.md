@@ -9,17 +9,54 @@
 5. `claude mcp server tool productivity` — MCP 服务器
 6. `claude-code hooks extension plugin` — 扩展生态
 7. `anthropic claude tool productivity developer` — 广泛工具搜索
-8. `claude-code devops skill` — DevOps 专项（下周新增）
-9. `claude skill data science` — 数据科学专项（下周新增）
+8. `claude-code devops skill` — DevOps 专项
+9. `claude skill data science` — 数据科学专项
+10. `mcp-server claude anthropic stars:>300` — 高质量 MCP 精品（2026-07-01 新增）
+11. `claude-code slash command skill workflow` — Skill 工厂类
+12. `topic:claude-code stars:>50` — 官方 Topic 精准筛选（效果最佳，2026-07-01 新增）
 
 ### 星数阈值（动态调整）
-- 当前门槛: 26,000+ stars（广泛类）
-- 垂直专项领域: 1,000+ 可酌情考虑（代码审查更严格）
+- 当前门槛: 500+ stars（精品 MCP 类，实际 GitHub API 结果验证）
+- 垂直专项领域: 300+ 可酌情考虑（OpenSSF 认证等质量指标可补偿）
 - 已排除大型非专项仓库（JeecgBoot、CowAgent 等）
 - 已收录项目不重复收录（全量排重）
 
 ### 安全标准（不可更改，权重固定 40%）
 详见 SECURITY.md
+
+---
+
+## 2026-07-01 — Daily Harvest
+
+### 8 Items Added
+| # | Name | Type | Stars | Source | Security | Score |
+|---|------|------|-------|--------|----------|-------|
+| 1 | serena | plugin | 25,948 ⭐ | [oraios/serena](https://github.com/oraios/serena) | ✅ PASS | 96/100 |
+| 2 | oh-my-claudecode | plugin | 37,207 ⭐ | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | ✅ PASS | 95/100 |
+| 3 | n8n-mcp | plugin | 22,060 ⭐ | [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | ✅ PASS | 93/100 |
+| 4 | Unity-MCP | plugin | 3,396 ⭐ | [IvanMurzak/Unity-MCP](https://github.com/IvanMurzak/Unity-MCP) | ✅ PASS | 91/100 |
+| 5 | voicemode | plugin | 1,249 ⭐ | [mbailey/voicemode](https://github.com/mbailey/voicemode) | ✅ PASS | 90/100 |
+| 6 | mcp-searxng | plugin | 986 ⭐ | [ihor-sokoliuk/mcp-searxng](https://github.com/ihor-sokoliuk/mcp-searxng) | ✅ PASS | 89/100 |
+| 7 | ccpm | skill | 8,236 ⭐ | [automazeio/ccpm](https://github.com/automazeio/ccpm) | ✅ PASS | 89/100 |
+| 8 | zotero-mcp | plugin | 962 ⭐ | [cookjohn/zotero-mcp](https://github.com/cookjohn/zotero-mcp) | ✅ PASS | 88/100 |
+
+### Strategy Used Today
+- Search queries: `mcp-server claude anthropic stars:>300`, `claude-code slash command skill workflow`, `topic:claude-code stars:>50`, `topic:mcp-server claude stars:>200 language:TypeScript`
+- Total candidates evaluated: ~80 unique repos across 5 searches
+- Rejected (security fail): 0 | Rejected (archived): 1 (e2b-dev/mcp-server) | Rejected (low score/duplicate): ~72
+- Star threshold applied: 500+ for broad search; 300+ for vertical/niche (mcp-searxng at 986⭐, zotero-mcp at 962⭐, voicemode at 1,249⭐)
+- Category diversity: 6 new categories added (Semantic Code Intelligence, Multi-agent Orchestration, Workflow Automation, Voice/Audio Interface, Private Search, Academic Reference Management)
+
+### Self-Optimization Notes
+与前五日对比：
+- 2026-06-26: 低星精品为主（平均 ~700⭐）
+- 2026-06-27: 垂直领域专项（游戏、安全、浏览器），平均 ~30k⭐
+- 2026-06-28: 高星广覆盖（token 优化、职业生产力、学术研究），平均 ~61k⭐
+- 2026-06-29: 行为调优、设计工具、营销、官方目录、写作质量，平均 ~57k⭐
+- 2026-06-30: 聚焦策略缺口（DevOps/IaC、数据库/SQL、代码智能图谱、ML研究），平均 ~12k⭐
+- 2026-07-01（今日）: 转向 **实际 GitHub API 验证数据**；聚焦 MCP 精品生态，引入 6 个全新类别（语义代码智能、多智能体编排、工作流自动化、语音界面、隐私搜索、学术文献管理），平均 ~12k⭐；插件比例 87.5%（7/8）
+- **趋势**: 搜索策略调整为 `topic:claude-code` + `mcp-server claude stars:>300` 两路并行，GitHub API 结果可信度大幅提升；安全审查从 pyproject.toml/package.json 逐项核验，serena 明确文档化全部 CVE 修复
+- **安全标准**: 固定不变，8/8 通过，0 安全失败
 
 ---
 
